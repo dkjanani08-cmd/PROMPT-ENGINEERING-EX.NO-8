@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date :27\12\25
+# Reg. No. 25015838
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -53,3 +53,6 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+<img width="1024" height="1024" alt="Gemini_Generated_Image_5bljn05bljn05blj" src="https://github.com/user-attachments/assets/8ecff5d3-8fbc-43cb-9f89-c3d541c1e291" />
+
+[ex 8.docx](https://github.com/user-attachments/files/24359998/ex.8.docx)
